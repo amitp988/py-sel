@@ -8,6 +8,7 @@ def Setup():
     print("Run the teardown")
 def test_demo_mathodA(Setup):
     print("This is Mathod A")
-def test_demo+mathodB(Setup):
+def test_demo_mathodB(Setup):
     print("This is Mathod B")
+    
 
